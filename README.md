@@ -1,16 +1,64 @@
-### Hi there 👋
+<h1><img src="https://shared-static-prod.epicgames.com/epic-achievements/ca6f97aa5f0e46a08cc09c76afc4113c/c2890856ddb844f1a7d552fc929838a7/icons/f4ee483a43acf39d51170714291f758e" width="30"/> _"Compungido corazón sea, Penitente."_</h1>
+
+<img align="right" alt="GIF" src="https://github.com/pvtoari/pvtoari/blob/main/resources/blasphemous.gif?raw=true" />
+
+
+**Languages and tools:**
+<br>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+<!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<br>
+
+Hi, I'm Ariel Roque, a student of computer engineering at the Universitat Politècnica de València. I dream of working and applying my knowledge in mathematics and research.
+
+Diehard fan of Blasphemous.
+
+<br>
+
+### 📢 You can also look at these
+<p align="left">
+  <a href="https://codeforces.com/profile/pvtoari">
+    <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062020/codeforces_logo.png?Qlx1_zCw.Q4T7PHPosbkLyNiBJQWX7GD&itok=6wPhjh1X" alt="CodeForces" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/abhishekmaira1999/">
+    <img src="https://raw.githubusercontent.com/gist/electricg/19b1bb4e8044dec8d1d3/raw/c6c274b3f0cbcf00b2f6ad4ff9ceae9d4fc26d30/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+
+  </a> &nbsp;&nbsp;&nbsp;
+</p>
+
+<details>
 
 <!--
-**pvtoari/pvtoari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<summary>📈 My GitHub Stats</summary>
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pvtoari&show_icons=true&theme=gotham" alt="pvtoari" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</details>
+
+</br>
+
+<a href="https://github.com/pvtoari/algunrepohabraaquialgundia" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvtoari&repo=null&theme=dracula" />
+</a>
+<a href="https://github.com/pvtoari/algunrepohabraaquialgundia" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvtoari&repo=null&theme=dracula" />
+</a>
+
 -->
+
+
+<div align="center">
+
+## _"Doy devoción al Milagro por tales oraciones."_
+
+<img align="center" alt="PNG" src="https://cdn2.steamgriddb.com/icon_thumb/7ff17e7aa3064d218ef36ab0557414df.png" />
+
+</div>
