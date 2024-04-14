@@ -7,7 +7,7 @@
  
  </h1>
 
-<img align="right" alt="GIF" src="https://github.com/pvtoari/pvtoari/blob/main/resources/blasphemous.gif?raw=true" />
+<img align="right" width = 600px height=380px alt="GIF" src="https://github.com/pvtoari/pvtoari/blob/main/resources/blasphemous.gif?raw=true" />
 
 
 
@@ -18,9 +18,7 @@
 
 <br><br>
 
-**Languages and tools:**
-
-<br>
+<b>Languages and tools:</b>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"></code>
@@ -68,6 +66,6 @@
 
 ## _"Doy devoción al Milagro por tales oraciones."_
 
-<img height = 400px widht = 100px align="center" alt="PNG" src="https://cdn2.steamgriddb.com/icon_thumb/7ff17e7aa3064d218ef36ab0557414df.png" />
+<img align="center" alt="PNG" src="https://cdn2.steamgriddb.com/icon_thumb/7ff17e7aa3064d218ef36ab0557414df.png" />
 
 </div>
