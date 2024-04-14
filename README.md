@@ -1,8 +1,9 @@
 <h1>
 
-<img src="https://shared-static-prod.epicgames.com/epic-achievements/ca6f97aa5f0e46a08cc09c76afc4113c/c2890856ddb844f1a7d552fc929838a7/icons/f4ee483a43acf39d51170714291f758e" width="30" length="10"/>
+<img src="https://github.com/pvtoari/pvtoari/blob/599ac7aa0484e30e7ecb3f1afd94e1fa5ba82958/resources/milagro.png" width="30" length="10"/>
+<i>"Compungido corazón sea, Penitente."</i>
 
- _"Compungido corazón sea, Penitente."_
+
  
  </h1>
 
@@ -65,6 +66,6 @@
 
 ## _"Doy devoción al Milagro por tales oraciones."_
 
-<img align="center" alt="PNG" src="https://cdn2.steamgriddb.com/icon_thumb/7ff17e7aa3064d218ef36ab0557414df.png" />
+<img height = 400px widht = 100px align="center" alt="PNG" src="https://cdn2.steamgriddb.com/icon_thumb/7ff17e7aa3064d218ef36ab0557414df.png" />
 
 </div>
