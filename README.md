@@ -18,7 +18,7 @@
 
 <br><br>
 
-<b>Languages and tools:</b>
+<strong><h3>Languages and tools:</h3></strong>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"></code>
