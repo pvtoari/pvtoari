@@ -20,46 +20,16 @@
 
 <strong><h3>Languages and tools:</h3></strong>
 
-<!-- C# -->
-<code>
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824">
-</code>
-<!-- Java -->
-<code>
-<img height="20" src="https://raw.githubusercontent.com/viruzvz/logos-svg/602b4ad99cb0ce876b9b2a6aaca3547011dfc3e4/java.svg">
-</code>
-<!-- IntelliJ IDEA -->
-<code>
-<img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/intellij-idea/intellij-idea.svg">
-</code>
-<!-- Rider -->
-<code>
-<img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/rider/rider.svg">
-</code>
-<!-- CLion -->
-<code>
-<img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/clion/clion.svg">
-</code>
-<!-- VSCode -->
-<code>
-<img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg">
-</code>
-<!-- Archlinux -->
-<code>
-<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/256px-Arch_Linux_%22Crystal%22_icon.svg.png">
-</code>
-<!-- Micro -->
-<code>
-<img height="20" src="https://micro-editor.github.io/micro_files/micro-logo-mark.svg">
-</code>
-<!-- Foot terminal -->
-<code>
-<img height="20" src="https://codeberg.org/repo-avatars/2366-0a8af594a4c015fc9e84300a3600a091">
-</code>
-<!-- Docker -->
-<code>
-<img height="20" src="https://raw.github.com/CircleCI-Public/cimg-android/main/img/circle-docker.svg">
-</code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/viruzvz/logos-svg/602b4ad99cb0ce876b9b2a6aaca3547011dfc3e4/java.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/intellij-idea/intellij-idea.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/rider/rider.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/clion/clion.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/256px-Arch_Linux_%22Crystal%22_icon.svg.png"></code>
+<code><img height="20" src="https://micro-editor.github.io/micro_files/micro-logo-mark.svg"></code>
+<code><img height="20" src="https://codeberg.org/repo-avatars/2366-0a8af594a4c015fc9e84300a3600a091"></code>
+<code><img height="20" src="https://raw.github.com/CircleCI-Public/cimg-android/main/img/circle-docker.svg"></code>
 
 <br><br><br>
 
