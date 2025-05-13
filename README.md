@@ -1,6 +1,6 @@
 <h1>
 
-<img src="https://github.com/pvtoari/pvtoari/blob/599ac7aa0484e30e7ecb3f1afd94e1fa5ba82958/resources/milagro.png" width="30" length="10"/>
+<img src="resources/milagro.png" width="30" length="10"/>
 <i>"Compungido corazón sea, Penitente."</i>
 
 
@@ -20,57 +20,53 @@
 
 <strong><h3>Languages and tools:</h3></strong>
 
-<code><img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg"></code>
-<code><img height="20" src="https://miro.medium.com/v2/resize:fit:540/1*nNTk-j2uaKhxyj3GXsYNdg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/43886029/158700686-2b7f0d3d-2cfa-4ed0-9783-3b4b0d24469e.svg"></code>
-<code><img height="20" src="https://github.com/hiroloquy/animate-gnuplot-icon/raw/master/icon_pngcairo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
+<!-- C# -->
+<code>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824">
+</code>
+<!-- Java -->
+<code>
+<img height="20" src="https://raw.githubusercontent.com/viruzvz/logos-svg/602b4ad99cb0ce876b9b2a6aaca3547011dfc3e4/java.svg">
+</code>
+<!-- IntelliJ IDEA -->
+<code>
+<img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/intellij-idea/intellij-idea.svg">
+</code>
+<!-- Rider -->
+<code>
+<img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/rider/rider.svg">
+</code>
+<!-- CLion -->
+<code>
+<img height="20" src="https://raw.githubusercontent.com/JetBrains/logos/ca5bc095f1443b1372b1a5e45a9a1c02c9646c82/web/clion/clion.svg">
+</code>
+<!-- VSCode -->
+<code>
+<img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg">
+</code>
+<!-- Archlinux -->
+<code>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Arch_Linux_%22Crystal%22_icon.svg/256px-Arch_Linux_%22Crystal%22_icon.svg.png">
+</code>
+<!-- Micro -->
+<code>
+<img height="20" src="https://micro-editor.github.io/micro_files/micro-logo-mark.svg">
+</code>
+<!-- Foot terminal -->
+<code>
+<img height="20" src="https://codeberg.org/repo-avatars/2366-0a8af594a4c015fc9e84300a3600a091">
+</code>
+<!-- Docker -->
+<code>
+<img height="20" src="https://raw.github.com/CircleCI-Public/cimg-android/main/img/circle-docker.svg">
+</code>
 
 <br><br><br>
-
-### 📢 You can also look at these
-<p align="left">
-  <a href="https://codeforces.com/profile/pvtoari">
-    <img height=175px widht=175px src="https://github.com/pvtoari/pvtoari/blob/976f4cc5742a9bbbe06591b544ea1977995a6ba7/resources/codeforces.png" alt="CodeForces" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/arielroque/">
-    <img height=175px width =175px src="https://raw.githubusercontent.com/gist/electricg/19b1bb4e8044dec8d1d3/raw/c6c274b3f0cbcf00b2f6ad4ff9ceae9d4fc26d30/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
-
-<!--
-<details>
-
-<summary>📈 My GitHub Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pvtoari&show_icons=true&theme=gotham" alt="pvtoari" />
-
-</details>
-
-</br>
-
-<a href="https://github.com/pvtoari/algunrepohabraaquialgundia" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvtoari&repo=null&theme=dracula" />
-</a>
-<a href="https://github.com/pvtoari/algunrepohabraaquialgundia" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pvtoari&repo=null&theme=dracula" />
-</a>
-
--->
-
 
 <div align="center">
 
 ## _"Doy devoción al Milagro por tales oraciones."_
 
-<img align="center" alt="PNG" src="https://cdn2.steamgriddb.com/icon_thumb/7ff17e7aa3064d218ef36ab0557414df.png" />
+<img align="center" alt="El milagro" src="https://cdn2.steamgriddb.com/icon_thumb/7ff17e7aa3064d218ef36ab0557414df.png" width="400" />
 
 </div>
