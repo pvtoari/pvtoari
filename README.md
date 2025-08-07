@@ -11,7 +11,11 @@
 
 
 
-<code>Hi, I'm Ariel Roque, a student of computer engineering at the Universitat Politècnica de València. I dream of working and applying my knowledge in mathematics and research.</code>
+<code>Hi, I'm Ariel Roque, back-end developer and third-year Computer Science student at Universitat Politècnica de València.</code>
+
+<code>I love creating as much as applying.</code>
+
+<code>I'm a failed attempt at being a mathematician.</code>
 
 <code>Diehard fan of Blasphemous.</code>
 <br>
