@@ -22,7 +22,7 @@
 
 <br><br>
 
-<strong><h3>Languages and tools:</h3></strong>
+<strong><h3>My personal stack:</h3></strong>
 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/viruzvz/logos-svg/602b4ad99cb0ce876b9b2a6aaca3547011dfc3e4/java.svg"></code>
